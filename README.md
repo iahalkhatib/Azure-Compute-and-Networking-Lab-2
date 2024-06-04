@@ -44,7 +44,8 @@
 
 # 20. Task 20. Run "Ipconfig/renew" command in powerhshell in VM1 
 
-# 21. Task 21. Filter traffic in Wireshark by DNS and use "nslookup" for www.google.com and see some of the the public IP addresses for www.google.com
+# 21. Task 21. Filter traffic in Wireshark by DNS and use "nslookup" for google and see some of the the public IP addresses for google
 
 # 22. Task 22. Filter traffic in Wireshark by RDP "Tcp.port == 3389" and see the traffic related to the RDP I am using to connect to VM1 
 
+![image](https://github.com/iahalkhatib/Azure-Networking-and-Wireshark-Lab-2/assets/170050432/f29453ce-d850-41fa-a511-34382c384b30)
